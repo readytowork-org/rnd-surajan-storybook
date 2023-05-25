@@ -1,4 +1,20 @@
-## How to run it 🤔?
-- First install all the packages using either `npm i`(if you're using npm) or `yarn`(if you're using yarn)
-- Then, for running storybook just run `npm run storybook` command.
-- For running the entire app just run `npm start` command _(💡 Note: But this repo focuses on storybook more, so you might not see much in the application side)._
+# How to run it 🤔?
+
+## 1. First Install all the packages 📦
+
+### `npm i` for npm users
+### `yarn` for yarn users
+
+## 2. For Running Storybook 📖
+
+### `npm run storybook`
+
+Runs all the storybook components.\
+Open [http://localhost:6006](http://localhost:6006) to view it in your browser.
+
+## 3. For Running the project 💻
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
